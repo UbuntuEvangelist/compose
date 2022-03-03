@@ -8,7 +8,7 @@ require (
 	github.com/cnabio/cnab-to-oci v0.3.1-beta1
 	github.com/compose-spec/compose-go v1.0.5
 	github.com/containerd/console v1.0.2
-	github.com/containerd/containerd v1.5.7
+	github.com/containerd/containerd v1.5.10
 	github.com/distribution/distribution/v3 v3.0.0-20210316161203-a01c71e2477e
 	github.com/docker/buildx v0.5.2-0.20210422185057-908a856079fc
 	github.com/docker/cli v20.10.7+incompatible
@@ -26,7 +26,7 @@ require (
 	github.com/moby/term v0.0.0-20210619224110-3f7ff695adc6
 	github.com/morikuni/aec v1.0.0
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.0.1
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/pkg/errors v0.9.1
 	github.com/sanathkr/go-yaml v0.0.0-20170819195128-ed9d249f429b
 	github.com/sirupsen/logrus v1.8.1
@@ -42,7 +42,7 @@ require (
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
 	github.com/Masterminds/semver v1.5.0 // indirect
 	github.com/Microsoft/go-winio v0.4.17 // indirect
-	github.com/Microsoft/hcsshim v0.8.21 // indirect
+	github.com/Microsoft/hcsshim v0.8.23 // indirect
 	github.com/agl/ed25519 v0.0.0-20170116200512-5312a6153412 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.1.1 // indirect
@@ -115,7 +115,7 @@ require (
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20210602131652-f16073e35f0c // indirect
 	google.golang.org/grpc v1.38.0 // indirect
-	google.golang.org/protobuf v1.26.0 // indirect
+	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
